@@ -9,6 +9,8 @@
 - MACIF
 
 # Technique :
+- serveur de prod : http://maraisbreton.myddns.me
+- serveur de test : http://marais.dev.com
 
 # Slovène :
 ## Outils :
