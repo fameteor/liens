@@ -1,6 +1,6 @@
 # Administratif :
-- mail
-- EDF
+- mail : https://laposte.net/accueil
+- EDF : https://particulier.edf.fr/fr/accueil.html
 - ENEDIS
 - CNAM
 - CNAV
