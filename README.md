@@ -18,3 +18,6 @@
 - Traduction Google : https://translate.google.fr/?hl=fr&sl=sl&tl=fr&op=translate
 - Forme des mots : https://besana.amebis.si/pregibanje/
 - Clavier slovène : https://www.lexilogos.com/clavier/slovensko.htm
+
+# Autres :
+- Archives de Vendée : https://www.archives.vendee.fr/Consulter/S-orienter-dans-les-fonds
