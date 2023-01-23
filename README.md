@@ -24,6 +24,8 @@
 - Clavier slovène : https://www.lexilogos.com/clavier/slovensko.htm
 ## Cours :
 - Youtube, learn Slovene : https://www.youtube.com/@learn_slovene/videos
+- Youtube, ABC Slovene : https://www.youtube.com/@ABCslovene/videos
+- Youtube, Alja : https://www.youtube.com/@alja7435/videos
 
 # Autres :
 - Archives de Vendée : https://www.archives.vendee.fr/Consulter/S-orienter-dans-les-fonds
