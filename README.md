@@ -10,7 +10,9 @@
 
 # Technique :
 - serveur de prod : http://maraisbreton.myddns.me
-- serveur de test : http://marais.dev.com
+- serveur de test : http://marais.dev.comhttps://github.com/amandaghassaei/gpu-io
+- librairies javascript intéressantes :
+  - GPU-accelerated computing workflows : https://github.com/amandaghassaei/gpu-io
 
 # Slovène :
 ## Outils :
