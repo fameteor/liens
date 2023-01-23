@@ -1,7 +1,7 @@
 # Administratif :
 - mail : https://laposte.net/accueil
 - EDF : https://particulier.edf.fr/fr/accueil.html
-- ENEDIS : https://mon-compte@enedis.fr
+- ENEDIS : https://mon-compte@enedis.fr/particulier
 - CNAM
 - CNAV
 - LCL
