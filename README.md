@@ -6,13 +6,14 @@
 - Mutuelle générale : https://adherent.lamutuellegenerale.fr/
 - CNAV : https://www.lassuranceretraite.fr
 - LCL : https://monespace.lcl.fr/connexion
-- GMF : 
-- MACIF : 
+- GMF : https://espace-assure.gmf.fr/
+- MACIF : https://www.macif.fr/
 
 # Technique :
 - serveur de prod : http://maraisbreton.myddns.me
 - serveur de test : http://marais.dev.comhttps://github.com/amandaghassaei/gpu-io
-- librairies javascript intéressantes :
+
+## librairies javascript intéressantes :
   - GPU-accelerated computing workflows : https://github.com/amandaghassaei/gpu-io
 
 # Slovène :
