@@ -28,6 +28,7 @@
 - Youtube, Alja : https://www.youtube.com/@alja7435/videos
 ## Manuels :
 - Slovenska beseda v živo : https://centerslo.si/wp-content/uploads/2016/03/CasZaSlo2_Ucbenik_web_lockd.pdf
+- ČAS ZA SLOVENŠČINO : https://centerslo.si/wp-content/uploads/2016/03/CasZaSlo2_Ucbenik_web_lockd.pdf
 
 # Autres :
 - Archives de Vendée : https://www.archives.vendee.fr/Consulter/S-orienter-dans-les-fonds
