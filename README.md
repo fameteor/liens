@@ -31,6 +31,8 @@
 ## Manuels :
 - ČAS ZA SLOVENŠČINO : https://centerslo.si/wp-content/uploads/2016/03/CasZaSlo2_Ucbenik_web_lockd.pdf
 - Audio : https://centerslo.si/knjige/ucbeniki-in-prirocniki/osnovna-stopnja/cas-za-slovenscino-2/cas-za-slovenscino-2-ucbenik/cas-za-slovenscino-2-posnetki/
+- Cene štupar audio : https://www.cene-stupar.si/sl/podpora-ucenju/epodpora-ucenju/e-gradiva/avdiogradiva-slovenscina
+- Cene štupar pdf : https://www.cene-stupar.si/media/Dokumenti%20v%20pdf/Ucbenik_Slovenscina_1_ponatis.pdf
 ## Mémo :
 - Déclinaisons : https://docs.google.com/spreadsheets/d/1hLSLNt5D2kkKbleEf1DtMMSxtBtU0E-z-U0dwTVgN60/edit#gid=0
 
