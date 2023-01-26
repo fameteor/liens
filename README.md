@@ -8,7 +8,7 @@
 - LCL : https://monespace.lcl.fr/connexion
 - GMF : https://espace-assure.gmf.fr/
 - MACIF : https://www.macif.fr/
-- AXA Retraite Entreprise : https://cotisants.ere.axa.fr
+- AXA Retraite Entreprise : https://cotisants-ere.axa.fr
 
 # Technique :
 - serveur de prod : http://maraisbreton.myddns.me
