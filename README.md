@@ -31,7 +31,7 @@
 ## Divers :
 - Articles bilingues : https://www.total-slovenia-news.com/tag/dual-text
 - Jeux vocabulaire : https://baltoslav.eu/hulnia/slv.php?mova=fr
-- Jeux enfants minorité autriche : 
+- Jeux enfants minorité autriche : https://www.novice.at/otroska/
 
 ## Manuels :
 - ČAS ZA SLOVENŠČINO : https://centerslo.si/wp-content/uploads/2016/03/CasZaSlo2_Ucbenik_web_lockd.pdf
