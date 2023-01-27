@@ -28,6 +28,11 @@
 - Youtube, ABC Slovene : https://www.youtube.com/@ABCslovene/videos
 - Youtube, Alja : https://www.youtube.com/@alja7435/videos
 - Anna in Slovenia : https://annainslovenia.wordpress.com/
+## Divers :
+- Articles bilingues : https://www.total-slovenia-news.com/tag/dual-text
+- Jeux vocabulaire :
+- Jeux enfants minorité autriche : 
+
 ## Manuels :
 - ČAS ZA SLOVENŠČINO : https://centerslo.si/wp-content/uploads/2016/03/CasZaSlo2_Ucbenik_web_lockd.pdf
 - Audio : https://centerslo.si/knjige/ucbeniki-in-prirocniki/osnovna-stopnja/cas-za-slovenscino-2/cas-za-slovenscino-2-ucbenik/cas-za-slovenscino-2-posnetki/
