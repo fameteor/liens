@@ -30,7 +30,7 @@
 - Anna in Slovenia : https://annainslovenia.wordpress.com/
 ## Divers :
 - Articles bilingues : https://www.total-slovenia-news.com/tag/dual-text
-- Jeux vocabulaire :
+- Jeux vocabulaire : https://baltoslav.eu/hulnia/slv.php?mova=fr
 - Jeux enfants minorité autriche : 
 
 ## Manuels :
