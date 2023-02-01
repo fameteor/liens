@@ -17,6 +17,10 @@
 ## librairies javascript intéressantes :
   - GPU-accelerated computing workflows : https://github.com/amandaghassaei/gpu-io
 
+## Solid
+- Solid JS : https://github.com/solidjs/solid
+- Solid router : https://github.com/solidjs/solid-router
+
 # Slovène :
 ## Outils :
 - Dictionnaire PONS : https://fr.pons.com/traduction/fran%C3%A7ais-slov%C3%A8ne
