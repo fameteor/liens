@@ -20,6 +20,7 @@
 ## Solid
 - Solid JS : https://github.com/solidjs/solid
 - Solid router : https://github.com/solidjs/solid-router
+- Solid Bootstrap : https://solid-libs.github.io/solid-bootstrap/
 
 # Slovène :
 ## Outils :
