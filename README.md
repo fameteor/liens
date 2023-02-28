@@ -33,6 +33,8 @@
 - Youtube, ABC Slovene : https://www.youtube.com/@ABCslovene/videos
 - Youtube, Alja : https://www.youtube.com/@alja7435/videos
 - Anna in Slovenia : https://annainslovenia.wordpress.com/
+## Videos :
+- Pika nogavička : https://www.youtube.com/watch?v=gGSRrek3_B8
 ## Divers :
 - Articles bilingues : https://www.total-slovenia-news.com/tag/dual-text
 - Jeux vocabulaire : https://baltoslav.eu/hulnia/slv.php?mova=fr
