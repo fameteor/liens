@@ -37,6 +37,7 @@
 - Pika nogavička : https://www.youtube.com/watch?v=gGSRrek3_B8
 - Bobi in Pika: Dedek Mraz : https://www.youtube.com/watch?v=B7N1SiW_IPI
 - Bobi in Pika: Skiro : https://www.youtube.com/watch?v=YqAsVNn_rU4
+- Lev in miška - lutkovna igra : https://www.youtube.com/watch?v=u0n-QyY7hsA
 ## Divers :
 - Articles bilingues : https://www.total-slovenia-news.com/tag/dual-text
 - Jeux vocabulaire : https://baltoslav.eu/hulnia/slv.php?mova=fr
