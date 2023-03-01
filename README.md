@@ -54,3 +54,8 @@
 
 # Autres :
 - Archives de Vendée : https://www.archives.vendee.fr/Consulter/S-orienter-dans-les-fonds
+
+# Plantes :
+- Pissenlit, laiteron, laitue : https://www.youtube.com/watch?v=j1BTDWmCOCA
+- Pissenlit et autres salades : https://www.youtube.com/watch?v=nI2n-pNHF2w
+- 
