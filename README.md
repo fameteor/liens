@@ -58,6 +58,7 @@
 # Plantes :
 - Pissenlit, laiteron, laitue : https://www.youtube.com/watch?v=j1BTDWmCOCA
 - Pissenlit et autres salades : https://www.youtube.com/watch?v=nI2n-pNHF2w
+- Les salades sauvages : http://www.assiette-sauvage.org/spip.php?article196
 - Apiacés : https://www.youtube.com/watch?v=UxjV2C_QXxs
 - Apiacès : https://www.youtube.com/watch?v=UAqely91Pb0
 - liste des apiacés de France : https://monde-vegetal.fr/apiacees-de-france/
