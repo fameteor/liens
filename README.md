@@ -60,3 +60,4 @@
 - Pissenlit et autres salades : https://www.youtube.com/watch?v=nI2n-pNHF2w
 - Apiacés : https://www.youtube.com/watch?v=UxjV2C_QXxs
 - Apiacès : https://www.youtube.com/watch?v=UAqely91Pb0
+- liste des apiacés de France : https://monde-vegetal.fr/apiacees-de-france/
