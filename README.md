@@ -63,4 +63,5 @@
 - Les salades sauvages : http://www.assiette-sauvage.org/spip.php?article196
 - Apiacés : https://www.youtube.com/watch?v=UxjV2C_QXxs
 - Apiacès : https://www.youtube.com/watch?v=UAqely91Pb0
+- Différencer les apiacés : https://www.youtube.com/watch?v=O77Im_1S9mM
 - liste des apiacés de France : https://monde-vegetal.fr/apiacees-de-france/
