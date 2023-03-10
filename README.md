@@ -65,3 +65,4 @@
 - Apiacès : https://www.youtube.com/watch?v=UAqely91Pb0
 - Différencer les apiacés : https://www.youtube.com/watch?v=O77Im_1S9mM
 - liste des apiacés de France : https://monde-vegetal.fr/apiacees-de-france/
+- recettes et descriptifs : https://plantes-sauvages-comestibles.com
