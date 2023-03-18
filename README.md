@@ -69,3 +69,4 @@
 
 # Recettes :
 - pain en bocal longue conservation : https://www.youtube.com/watch?v=hC_TbCnvpvI
+- conserve viande et légumes : https://www.youtube.com/watch?v=Q2kqNw_0Lbo
