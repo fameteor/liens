@@ -45,7 +45,8 @@
 - Articles bilingues : https://www.total-slovenia-news.com/tag/dual-text
 - Jeux vocabulaire : https://baltoslav.eu/hulnia/slv.php?mova=fr
 - Jeux enfants minorité autriche : https://www.novice.at/otroska/
-
+## textes : 
+- Taktično jedrsko orožje : https://www.rtvslo.si/svet/vojna-v-ukrajini/dobran-bozic-takticno-jedrsko-orozje-unici-precej-manjse-obmocje-kot-stratesko/642920
 ## Manuels :
 - ČAS ZA SLOVENŠČINO : https://centerslo.si/wp-content/uploads/2016/03/CasZaSlo2_Ucbenik_web_lockd.pdf
 - Audio : https://centerslo.si/knjige/ucbeniki-in-prirocniki/osnovna-stopnja/cas-za-slovenscino-2/cas-za-slovenscino-2-ucbenik/cas-za-slovenscino-2-posnetki/
