@@ -49,6 +49,7 @@
 - Taktično jedrsko orožje : https://www.rtvslo.si/svet/vojna-v-ukrajini/dobran-bozic-takticno-jedrsko-orozje-unici-precej-manjse-obmocje-kot-stratesko/642920
 - V Franciji več sto tisoč ljudi protestiralo proti Macronu : https://www.rtvslo.si/svet/evropa/v-franciji-vec-sto-tisoc-ljudi-protestiralo-proti-macronu-in-njegovi-pokojninski-reformi/662932
 - Jumbo ne želi biti več glavni pokrovitelj Rogličeve ekipe : https://www.rtvslo.si/sport/kolesarstvo/jumbo-ne-zeli-biti-vec-glavni-pokrovitelj-rogliceve-ekipe/663089
+- Na spomladanskem Tednu restavracij tudi dve z Michelinovo zvezdico : https://www.rtvslo.si/zabava-in-slog/kulinarika/na-spomladanskem-tednu-restavracij-tudi-dve-z-michelinovo-zvezdico/662394
 ## Manuels :
 - ČAS ZA SLOVENŠČINO : https://centerslo.si/wp-content/uploads/2016/03/CasZaSlo2_Ucbenik_web_lockd.pdf
 - Audio : https://centerslo.si/knjige/ucbeniki-in-prirocniki/osnovna-stopnja/cas-za-slovenscino-2/cas-za-slovenscino-2-ucbenik/cas-za-slovenscino-2-posnetki/
