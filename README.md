@@ -47,8 +47,8 @@
 - Articles bilingues : https://www.total-slovenia-news.com/tag/dual-text
 - Jeux vocabulaire : https://baltoslav.eu/hulnia/slv.php?mova=fr
 - Jeux enfants minorité autriche : https://www.novice.at/otroska/
-## textes : 
-- Taktično jedrsko orožje : https://www.rtvslo.si/svet/vojna-v-ukrajini/dobran-bozic-takticno-jedrsko-orozje-unici-precej-manjse-obmocje-kot-stratesko/642920
+## tex[tes : 
+- Taktično jedrsko orožje : https://www.rtvslo.si/svet/vojna-v-ukrajini/dobran-bozic-takticno-jedrsko-orozje-unici-precej-manjse-obmocje-kot-stratesko](https://abiris.snv.jussieu.fr/herbier/)/642920
 - V Franciji več sto tisoč ljudi protestiralo proti Macronu : https://www.rtvslo.si/svet/evropa/v-franciji-vec-sto-tisoc-ljudi-protestiralo-proti-macronu-in-njegovi-pokojninski-reformi/662932
 - Na Balkanu zima pokazala zobe, Beograd pobelil sneg : https://www.rtvslo.si/svet/evropa/na-balkanu-zima-pokazala-zobe-beograd-pobelil-sneg/663794
 ## Manuels :
@@ -63,6 +63,8 @@
 - Archives de Vendée : https://www.archives.vendee.fr/Consulter/S-orienter-dans-les-fonds
 
 # Plantes :
+- Flore en ligne (Jussieu) : https://abiris.snv.jussieu.fr/herbier/
+
 - Pissenlit, laiteron, laitue : https://www.youtube.com/watch?v=j1BTDWmCOCA
 - Pissenlit et autres salades : https://www.youtube.com/watch?v=nI2n-pNHF2w
 - Les salades sauvages : http://www.assiette-sauvage.org/spip.php?article196
