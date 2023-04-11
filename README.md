@@ -63,7 +63,7 @@
 - Archives de Vendée : https://www.archives.vendee.fr/Consulter/S-orienter-dans-les-fonds
 
 # Plantes :
-- Flore en ligne (Jussieu) : https://abiris.snv.jussieu.fr/herbier/
+- Flore en ligne (Jussieu) : http://flore-en-ligne.fr/
 
 - Pissenlit, laiteron, laitue : https://www.youtube.com/watch?v=j1BTDWmCOCA
 - Pissenlit et autres salades : https://www.youtube.com/watch?v=nI2n-pNHF2w
