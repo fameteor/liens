@@ -64,7 +64,7 @@
 
 # Plantes :
 - Flore en ligne (Jussieu) : http://flore-en-ligne.fr/
-
+- Clé de détermination des brassicacés : https://totakenature.fr/tag-clesdedetermination-cle_de_determination_des_brassicacees.html
 - Pissenlit, laiteron, laitue : https://www.youtube.com/watch?v=j1BTDWmCOCA
 - Pissenlit et autres salades : https://www.youtube.com/watch?v=nI2n-pNHF2w
 - Les salades sauvages : http://www.assiette-sauvage.org/spip.php?article196
