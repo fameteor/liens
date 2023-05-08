@@ -80,3 +80,7 @@
 - pain en bocal longue conservation : https://www.youtube.com/watch?v=hC_TbCnvpvI
 - conserve viande et légumes : https://www.youtube.com/watch?v=Q2kqNw_0Lbo
 - cuisine saucisses dans les montagnes d'Ukraine : https://www.youtube.com/watch?v=B0HikGkCiRk
+
+# 2023
+- DRAU radweg : https://www.drauradweg.com/de/
+- MUR radweg : https://www.steiermark.com/de/Steiermark/Aktiv-in-der-Natur/Rad-Bike/Murradweg
