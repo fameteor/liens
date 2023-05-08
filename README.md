@@ -83,4 +83,5 @@
 
 # 2023
 - DRAU radweg : https://www.drauradweg.com/de/
+- DRAVA kolesarska pot : https://dravabike.si/
 - MUR radweg : https://www.steiermark.com/de/Steiermark/Aktiv-in-der-Natur/Rad-Bike/Murradweg
