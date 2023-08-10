@@ -12,6 +12,9 @@
 - MACIF : https://www.macif.fr/
 - AXA Retraite Entreprise : https://cotisants-ere.axa.fr
 
+# MPCse : 
+- notice gasinière Rosière 2 feux : https://mesnotices.20minutes.fr/flipbook/014159.php?ID=3575887&k=77dc0f1bcd2adbbb970e6cf53ff435a0&q=ROSIERES+D2%20GLB
+
 # Technique :
 - serveur de prod : http://maraisbreton.myddns.me
 - serveur de test : http://marais.dev.comhttps://github.com/amandaghassaei/gpu-io
