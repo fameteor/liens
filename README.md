@@ -14,6 +14,7 @@
 
 # MPCse : 
 - notice gasinière Rosière 2 feux : https://mesnotices.20minutes.fr/flipbook/014159.php?ID=3575887&k=77dc0f1bcd2adbbb970e6cf53ff435a0&q=ROSIERES+D2%20GLB
+- Compteur vélo : https://manuall.fr/sigma-bc-906-compteur-velo/
 
 # Technique :
 - serveur de prod : http://maraisbreton.myddns.me
