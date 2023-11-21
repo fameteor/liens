@@ -49,6 +49,7 @@
 - Lev in miška - lutkovna igra : https://www.youtube.com/watch?v=u0n-QyY7hsA
 - Marcelino kruh in vino 1 : https://www.youtube.com/watch?v=l5oijXW32GQ
 - Infodrom : https://cist-hudo.rtvslo.si/infodrom
+- Škrat Zlobko - 1 del - Zlobko se zbudi : https://www.youtube.com/watch?v=Q9VjCKsGhsg
 ## Divers :
 - Articles bilingues : https://www.total-slovenia-news.com/tag/dual-text
 - Jeux vocabulaire : https://baltoslav.eu/hulnia/slv.php?mova=fr
