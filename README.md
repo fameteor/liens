@@ -13,6 +13,11 @@
 - AXA Retraite Entreprise : https://cotisants-ere.axa.fr
 - Acte de francisation : https://www.demarches-plaisance.gouv.fr
 
+# Repositories
+- Mesure de la hauteur de la nappe d'eau de FB : https://github.com/fameteor/ARDUINO-profondeur-puit
+- Install LINUX : https://github.com/fameteor/linux_install
+- Tips METEOR : https://github.com/fameteor/Meteor-Tips
+  
 # MPCse : 
 - notice gasinière Rosière 2 feux : https://mesnotices.20minutes.fr/flipbook/014159.php?ID=3575887&k=77dc0f1bcd2adbbb970e6cf53ff435a0&q=ROSIERES+D2%20GLB
 - Compteur vélo : https://manuall.fr/sigma-bc-906-compteur-velo/
