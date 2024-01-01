@@ -48,6 +48,7 @@
 - Anna in Slovenia : https://annainslovenia.wordpress.com/
 - Slovenian as a foreign language : https://www.youtube.com/@language_lessons7939/videos
 - Learn slovene vocabulary : https://www.youtube.com/@learnslovene868/videos
+- 50 languages vocabulary : https://www.50languages.com/fr/learn/phrasebook/sl
 ## Videos :
 - Pika nogavička : https://www.youtube.com/watch?v=gGSRrek3_B8
 - Bobi in Pika : Dedek Mraz : https://www.youtube.com/watch?v=B7N1SiW_IPI
