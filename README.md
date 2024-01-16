@@ -96,6 +96,9 @@
 - conserve viande et légumes : https://www.youtube.com/watch?v=Q2kqNw_0Lbo
 - cuisine saucisses dans les montagnes d'Ukraine : https://www.youtube.com/watch?v=B0HikGkCiRk
 
+# Menuiserie
+- Queues d'arronde japonaises : https://www.youtube.com/watch?v=0I4daFLnO5c
+
 # 2023
 - DRAU radweg : https://www.drauradweg.com/de/
 - DRAVA kolesarska pot : https://dravabike.si/
