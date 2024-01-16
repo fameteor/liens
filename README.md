@@ -98,6 +98,7 @@
 
 # Menuiserie
 - Queues d'arronde japonaises : https://www.youtube.com/watch?v=0I4daFLnO5c
+- Jointure KNAPP : https://www.youtube.com/watch?v=cQyOa6RSIWM
 
 # 2023
 - DRAU radweg : https://www.drauradweg.com/de/
