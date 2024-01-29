@@ -30,17 +30,6 @@
 ## librairies javascript intéressantes :
   - GPU-accelerated computing workflows : https://github.com/amandaghassaei/gpu-io
 
-# Bricolage bois
-## Quincaillerie
-- T-track profile : rail aluminium : https://www.assistent-system.fr/fr/profiles-t-track/97-profile-t-track-19125-1000-mm.html
-- écrou carré pour rail : https://www.assistent-system.fr/fr/profiles/135-ecrou-carre-m8-4001796207167.html
-- écrou griffe inox
-
-##Montages intéressants :
-- gabarit cercles défonceuse : https://www.youtube.com/watch?v=6GjqYIZNWbY
-- guide de perçage pour assemblage vis en biais : https://www.youtube.com/watch?v=McjiwwNWUc4
-- gabarit de gougeons : https://www.youtube.com/watch?v=R5KUnu_Be_I
-
 ## Solid
 - Solid JS : https://github.com/solidjs/solid
 - Solid router : https://github.com/solidjs/solid-router
@@ -111,6 +100,16 @@
 # Menuiserie
 - Queues d'arronde japonaises : https://www.youtube.com/watch?v=0I4daFLnO5c
 - Jointure KNAPP : https://www.youtube.com/watch?v=cQyOa6RSIWM
+
+## Quincaillerie
+- T-track profile : rail aluminium : https://www.assistent-system.fr/fr/profiles-t-track/97-profile-t-track-19125-1000-mm.html
+- écrou carré pour rail : https://www.assistent-system.fr/fr/profiles/135-ecrou-carre-m8-4001796207167.html
+- écrou griffe inox
+
+##Montages intéressants :
+- gabarit cercles défonceuse : https://www.youtube.com/watch?v=6GjqYIZNWbY
+- guide de perçage pour assemblage vis en biais : https://www.youtube.com/watch?v=McjiwwNWUc4
+- gabarit de gougeons : https://www.youtube.com/watch?v=R5KUnu_Be_I
 
 # 2023
 - DRAU radweg : https://www.drauradweg.com/de/
