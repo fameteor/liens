@@ -96,6 +96,7 @@
 - pain en bocal longue conservation : https://www.youtube.com/watch?v=hC_TbCnvpvI
 - conserve viande et légumes : https://www.youtube.com/watch?v=Q2kqNw_0Lbo
 - cuisine saucisses dans les montagnes d'Ukraine : https://www.youtube.com/watch?v=B0HikGkCiRk
+- albondigas de merluza : https://www.youtube.com/watch?v=yNSvCS4C5sw
 
 # Menuiserie
 - Queues d'arronde japonaises : https://www.youtube.com/watch?v=0I4daFLnO5c
