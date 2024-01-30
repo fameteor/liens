@@ -109,7 +109,7 @@
 - insert fileté bois : https://www.vis-express.fr/fr/ecrou-fendu-m8/329484-ecrou-fendue-m8-13x20-laiton-3663072117136.html?gad_source=1&gclid=EAIaIQobChMIg7Saq7mDhAMVa6hoCR3a-QQlEAQYAyABEgLmp_D_BwE
 
 ##Montages intéressants :
-- gabarit cercles défonceuse : https://www.youtube.com/watch?v=6GjqYIZNWbY
+- gabarit cercles défonceuse : https://www.youtube.com/watch?v=6GjqYIZNWbY https://www.youtube.com/watch?v=mmltvQJ0hxs
 - guide de perçage pour assemblage vis en biais : https://www.youtube.com/watch?v=McjiwwNWUc4
 - gabarit de gougeons : https://www.youtube.com/watch?v=R5KUnu_Be_I
 
