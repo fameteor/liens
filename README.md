@@ -113,6 +113,7 @@
 - gabarit cercles défonceuse : https://www.youtube.com/watch?v=6GjqYIZNWbY https://www.youtube.com/watch?v=mmltvQJ0hxs
 - guide de perçage pour assemblage vis en biais : https://www.youtube.com/watch?v=McjiwwNWUc4
 - gabarit de gougeons : https://www.youtube.com/watch?v=R5KUnu_Be_I
+- jauge de marquage : https://www.youtube.com/watch?v=ISaDdkenmN4
 
 # 2023
 - DRAU radweg : https://www.drauradweg.com/de/
