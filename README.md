@@ -116,8 +116,9 @@
 - guide de perçage pour assemblage vis en biais : https://www.youtube.com/watch?v=McjiwwNWUc4
 - gabarit de gougeons : https://www.youtube.com/watch?v=R5KUnu_Be_I
 - jauge de marquage : https://www.youtube.com/watch?v=ISaDdkenmN4
-- scie circulaire sur rail 1 : https://www.youtube.com/watch?v=AP_GpP4m7b4
-- scie circulaire sur rail 2 : https://www.youtube.com/watch?v=sa2I0vUCXsE
+- scie circulaire sur rails 1 : https://www.youtube.com/watch?v=AP_GpP4m7b4
+- scie circulaire sur rails 2 : https://www.youtube.com/watch?v=sa2I0vUCXsE
+- scie circulaire sur rails 3 : https://www.youtube.com/watch?v=M1xYKw5FP-0
 
 # 2023
 - DRAU radweg : https://www.drauradweg.com/de/
