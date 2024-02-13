@@ -109,7 +109,8 @@
 - insert fileté bois : https://www.vis-express.fr/fr/ecrou-fendu-m8/329484-ecrou-fendue-m8-13x20-laiton-3663072117136.html?gad_source=1&gclid=EAIaIQobChMIg7Saq7mDhAMVa6hoCR3a-QQlEAQYAyABEgLmp_D_BwE
 - mèche Forstner
 - rail de guidage linéaire : https://www.vevor.fr/rail-de-guidage-lineaire-c_10531/vevor-rail-de-guidage-lineaire-sbr20-1800-mm-2pcs-rails-lineaires-1800-mm-4pcs-blocs-roulement-sbr20uu-kit-glissieres-a-roulement-lineaire-pour-machines-automatisees-routeurs-cnc-tours-imprimante-3d-p_010413873743?adp=gmc&country=FR&utm_source=google&utm_medium=cpc&utm_id=14927577277&utm_term=&gad_source=1&gclid=EAIaIQobChMIpeP7pMWlhAMV0ZRoCR1nSgCYEAQYDyABEgJqavD_BwE
-- 
+- sauterelle, pince à bascule
+- fermeture à levier
 
 ##Montages intéressants :
 - gabarit cercles défonceuse : https://www.youtube.com/watch?v=6GjqYIZNWbY https://www.youtube.com/watch?v=mmltvQJ0hxs
