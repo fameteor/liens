@@ -120,6 +120,7 @@
 - scie circulaire sur rails 1 : https://www.youtube.com/watch?v=AP_GpP4m7b4
 - scie circulaire sur rails 2 : https://www.youtube.com/watch?v=sa2I0vUCXsE
 - scie circulaire sur rails 3 : https://www.youtube.com/watch?v=M1xYKw5FP-0
+- drillpress table : https://www.youtube.com/watch?v=gbGLIDfjp9o
 
 # 2023
 - DRAU radweg : https://www.drauradweg.com/de/
