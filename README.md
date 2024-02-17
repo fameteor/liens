@@ -102,6 +102,7 @@
 - Queues d'arronde japonaises : https://www.youtube.com/watch?v=0I4daFLnO5c
 - Jointure KNAPP : https://www.youtube.com/watch?v=cQyOa6RSIWM
 - Assemblage coin en 2 coupes : https://www.youtube.com/watch?v=Od1kj8MOMtA
+- Joints d'angle (coins) : https://www.youtube.com/watch?v=0jXg1SnCMho
 
 ## Quincaillerie
 - T-track profile : rail aluminium : https://www.assistent-system.fr/fr/profiles-t-track/97-profile-t-track-19125-1000-mm.html
