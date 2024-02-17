@@ -29,6 +29,7 @@
 
 ## librairies javascript intéressantes :
   - GPU-accelerated computing workflows : https://github.com/amandaghassaei/gpu-io
+  - mustache : https://github.com/janl/mustache.js
 
 ## Solid
 - Solid JS : https://github.com/solidjs/solid
