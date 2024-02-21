@@ -30,6 +30,7 @@
 ## librairies javascript intéressantes :
   - GPU-accelerated computing workflows : https://github.com/amandaghassaei/gpu-io
   - mustache : https://github.com/janl/mustache.js
+  - drapeaux en SVG : https://flagicons.lipis.dev/
 
 ## Solid
 - Solid JS : https://github.com/solidjs/solid
