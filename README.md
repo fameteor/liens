@@ -61,6 +61,7 @@
 - Marcelino kruh in vino 1 : https://www.youtube.com/watch?v=l5oijXW32GQ
 - Infodrom : https://cist-hudo.rtvslo.si/infodrom
 - Škrat Zlobko - 1 del - Zlobko se zbudi : https://www.youtube.com/watch?v=Q9VjCKsGhsg
+- Francek gre v solo : https://www.youtube.com/watch?v=l8DsFWaXkN8&list=PLQlpiyfzXB738d75MW5WtVa7T7uojk0pb&index=2
 ## Divers :
 - Articles bilingues : https://www.total-slovenia-news.com/tag/dual-text
 - Jeux vocabulaire : https://baltoslav.eu/hulnia/slv.php?mova=fr
