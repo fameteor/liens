@@ -107,6 +107,7 @@
 - Assemblage coin en 2 coupes : https://www.youtube.com/watch?v=Od1kj8MOMtA
 - Joints d'angle (coins) : https://www.youtube.com/watch?v=0jXg1SnCMho
 - Boite à ouverture par rotation : https://www.youtube.com/watch?v=gkJlGKmGIeo
+- Tiroirs Mamias avec gorge passe doigts : https://www.youtube.com/watch?v=yXSqyZz4Ixs
 
 ## Quincaillerie
 - T-track profile : rail aluminium : https://www.assistent-system.fr/fr/profiles-t-track/97-profile-t-track-19125-1000-mm.html
