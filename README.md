@@ -100,6 +100,7 @@
 - conserve viande et légumes : https://www.youtube.com/watch?v=Q2kqNw_0Lbo
 - cuisine saucisses dans les montagnes d'Ukraine : https://www.youtube.com/watch?v=B0HikGkCiRk
 - albondigas de merluza : https://www.youtube.com/watch?v=yNSvCS4C5sw
+- gateau moelleux fromage/framboises : https://www.youtube.com/watch?v=kuNILHkTlh0
 
 # Menuiserie
 - Queues d'arronde japonaises : https://www.youtube.com/watch?v=0I4daFLnO5c
