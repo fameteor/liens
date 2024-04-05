@@ -120,6 +120,7 @@
 - rail de guidage linéaire : https://www.vevor.fr/rail-de-guidage-lineaire-c_10531/vevor-rail-de-guidage-lineaire-sbr20-1800-mm-2pcs-rails-lineaires-1800-mm-4pcs-blocs-roulement-sbr20uu-kit-glissieres-a-roulement-lineaire-pour-machines-automatisees-routeurs-cnc-tours-imprimante-3d-p_010413873743?adp=gmc&country=FR&utm_source=google&utm_medium=cpc&utm_id=14927577277&utm_term=&gad_source=1&gclid=EAIaIQobChMIpeP7pMWlhAMV0ZRoCR1nSgCYEAQYDyABEgJqavD_BwE
 - sauterelle, pince à bascule
 - fermeture à levier
+- fraises pour poignées : https://www.cmtorangetools.com/eu-fr/fraises-industrielles-pour-defonceuses/fraises-pour-poignees-8-955
 
 ##Montages intéressants :
 - gabarit cercles défonceuse : https://www.youtube.com/watch?v=6GjqYIZNWbY https://www.youtube.com/watch?v=mmltvQJ0hxs
