@@ -1,6 +1,6 @@
 # Administratif :
 - mail : https://laposte.net/accueil
-- portail salarié : https://portailsalaries.site1.orange.com/
+- portail salarié : https://eburo.orange.com/
 - EDF : https://particulier.edf.fr/fr/accueil.html
 - ENEDIS : https://mon-compte@enedis.fr/particulier
 - CNAM (Améli) : https://www.ameli.fr/vendee/assure
