@@ -106,6 +106,7 @@
 - gateau moelleux fromage/framboises : https://www.youtube.com/watch?v=kuNILHkTlh0
 
 # Menuiserie
+- !!! Assemblages en tt genre scie circulaire plus défonceuse : https://www.youtube.com/watch?v=USVctg0elYk
 - Queues d'arronde japonaises : https://www.youtube.com/watch?v=0I4daFLnO5c
 - Jointure KNAPP : https://www.youtube.com/watch?v=cQyOa6RSIWM
 - Assemblage coin en 2 coupes : https://www.youtube.com/watch?v=Od1kj8MOMtA
