@@ -141,3 +141,6 @@
 - DRAU radweg : https://www.drauradweg.com/de/
 - DRAVA kolesarska pot : https://dravabike.si/
 - MUR radweg : https://www.steiermark.com/de/Steiermark/Aktiv-in-der-Natur/Rad-Bike/Murradweg
+
+# 2025
+- D routen 1-12 avec carte, distances, difficultées et dénivellé : https://www.wildganz.com/entdecken/deutschland/radfahren/d-routen
