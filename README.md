@@ -104,6 +104,7 @@
 - cuisine saucisses dans les montagnes d'Ukraine : https://www.youtube.com/watch?v=B0HikGkCiRk
 - albondigas de merluza : https://www.youtube.com/watch?v=yNSvCS4C5sw
 - gateau moelleux fromage/framboises : https://www.youtube.com/watch?v=kuNILHkTlh0
+- croissants slovènes fourrés : https://www.youtube.com/watch?v=PYQOYDYIogc
 
 # Menuiserie
 - !!! Assemblages en tt genre scie circulaire plus défonceuse + plans en fin : https://www.youtube.com/watch?v=USVctg0elYk
