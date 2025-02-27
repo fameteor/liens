@@ -108,6 +108,7 @@
 
 # Menuiserie
 - !!! Assemblages en tt genre scie circulaire plus défonceuse + plans en fin : https://www.youtube.com/watch?v=USVctg0elYk
+- !!! Pour faire des chevilles : https://www.youtube.com/watch?v=1ItiYkzRJVg
 - Queues d'arronde japonaises : https://www.youtube.com/watch?v=0I4daFLnO5c
 - Jointure KNAPP : https://www.youtube.com/watch?v=cQyOa6RSIWM
 - Assemblage coin en 2 coupes : https://www.youtube.com/watch?v=Od1kj8MOMtA
