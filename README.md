@@ -105,6 +105,7 @@
 - albondigas de merluza : https://www.youtube.com/watch?v=yNSvCS4C5sw
 - gateau moelleux fromage/framboises : https://www.youtube.com/watch?v=kuNILHkTlh0
 - croissants slovènes fourrés : https://www.youtube.com/watch?v=PYQOYDYIogc
+- buhtelje teta barbka : https://www.youtube.com/watch?v=qbETLGW_b9o
 
 # Menuiserie
 - !!! Assemblages en tt genre scie circulaire plus défonceuse + plans en fin : https://www.youtube.com/watch?v=USVctg0elYk
