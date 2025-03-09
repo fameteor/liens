@@ -109,6 +109,7 @@
 
 # Menuiserie
 - !!! Assemblages en tt genre scie circulaire plus défonceuse + plans en fin : https://www.youtube.com/watch?v=USVctg0elYk
+- !!! Gabarit souple pour queues d'arronde : https://www.youtube.com/watch?v=MPFv6LTrQFQ
 - !!! Pour faire des chevilles : https://www.youtube.com/watch?v=1ItiYkzRJVg
 - Queues d'arronde japonaises : https://www.youtube.com/watch?v=0I4daFLnO5c
 - Jointure KNAPP : https://www.youtube.com/watch?v=cQyOa6RSIWM
