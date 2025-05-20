@@ -69,6 +69,7 @@
 - Jeux enfants minorité autriche : https://www.novice.at/otroska/
 - Enostavno : https://www.rtvslo.si/enostavno
 - Journal pour enfants : https://casoris.si/
+- Flashcards : https://flashcardo.com/slovenian-flashcards/
 ## tex[tes : 
 - Taktično jedrsko orožje : https://www.rtvslo.si/svet/vojna-v-ukrajini/dobran-bozic-takticno-jedrsko-orozje-unici-precej-manjse-obmocje-kot-stratesko](https://abiris.snv.jussieu.fr/herbier/)/642920
 - V Franciji več sto tisoč ljudi protestiralo proti Macronu : https://www.rtvslo.si/svet/evropa/v-franciji-vec-sto-tisoc-ljudi-protestiralo-proti-macronu-in-njegovi-pokojninski-reformi/662932
